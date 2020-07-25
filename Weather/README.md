@@ -13,7 +13,6 @@ Berfungsi untuk memonitor cuaca. Powered by OpenWeatherMap API
 #### Usage : 
 ```
 Weather.sh -l <lokasi>
-
 ```
 #### Note
 - Untuk Update dinamis (setiap 10 menit) gunakan opsi -d
@@ -31,5 +30,4 @@ Weather.sh -l <lokasi>
  
 ```
 python3 Weather.py
-
 ```
