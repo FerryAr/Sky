@@ -27,7 +27,6 @@ Weather.sh -l <lokasi>
 - Requests module [ pip3 install requests ]
 
 #### Usage :
- 
 ```
 python3 Weather.py
 ```
